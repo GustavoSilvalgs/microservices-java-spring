@@ -40,5 +40,5 @@ jobs:
       run: mvn clean package
 
     - name: Docker Compose Build
-      working-directory: ./microservices-java-spring
+      working-directory: .
       run: docker compose build
