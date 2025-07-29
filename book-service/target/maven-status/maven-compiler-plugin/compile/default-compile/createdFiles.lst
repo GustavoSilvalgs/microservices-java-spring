@@ -1,0 +1,11 @@
+br\com\erudio\dto\ExchangeDto.class
+br\com\erudio\proxy\ExchangeProxy.class
+br\com\erudio\environment\InstanceInformationService.class
+br\com\erudio\controller\FooBarController.class
+br\com\erudio\repository\BookRepository.class
+br\com\erudio\Startup.class
+br\com\erudio\config\WebConfig.class
+br\com\erudio\controller\BookController.class
+br\com\erudio\config\ZipkinCustomSenderConfig.class
+br\com\erudio\model\Book.class
+br\com\erudio\config\OpenApiConfiguration.class

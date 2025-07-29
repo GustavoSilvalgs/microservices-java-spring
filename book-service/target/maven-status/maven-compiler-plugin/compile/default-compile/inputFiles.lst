@@ -1,0 +1,11 @@
+C:\Projects\microservices\erudio-udemy-example\book-service\src\main\java\br\com\erudio\config\OpenApiConfiguration.java
+C:\Projects\microservices\erudio-udemy-example\book-service\src\main\java\br\com\erudio\config\WebConfig.java
+C:\Projects\microservices\erudio-udemy-example\book-service\src\main\java\br\com\erudio\config\ZipkinCustomSenderConfig.java
+C:\Projects\microservices\erudio-udemy-example\book-service\src\main\java\br\com\erudio\controller\BookController.java
+C:\Projects\microservices\erudio-udemy-example\book-service\src\main\java\br\com\erudio\controller\FooBarController.java
+C:\Projects\microservices\erudio-udemy-example\book-service\src\main\java\br\com\erudio\dto\ExchangeDto.java
+C:\Projects\microservices\erudio-udemy-example\book-service\src\main\java\br\com\erudio\environment\InstanceInformationService.java
+C:\Projects\microservices\erudio-udemy-example\book-service\src\main\java\br\com\erudio\model\Book.java
+C:\Projects\microservices\erudio-udemy-example\book-service\src\main\java\br\com\erudio\proxy\ExchangeProxy.java
+C:\Projects\microservices\erudio-udemy-example\book-service\src\main\java\br\com\erudio\repository\BookRepository.java
+C:\Projects\microservices\erudio-udemy-example\book-service\src\main\java\br\com\erudio\Startup.java

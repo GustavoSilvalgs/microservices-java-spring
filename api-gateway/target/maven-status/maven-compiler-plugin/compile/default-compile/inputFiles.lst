@@ -1,0 +1,6 @@
+C:\Projects\microservices\erudio-udemy-example\api-gateway\src\main\java\br\com\erudio\config\ApiGatewayConfig.java
+C:\Projects\microservices\erudio-udemy-example\api-gateway\src\main\java\br\com\erudio\config\CorsConfig.java
+C:\Projects\microservices\erudio-udemy-example\api-gateway\src\main\java\br\com\erudio\config\OpenApiConfiguration.java
+C:\Projects\microservices\erudio-udemy-example\api-gateway\src\main\java\br\com\erudio\config\ZipkinCustomSenderConfig.java
+C:\Projects\microservices\erudio-udemy-example\api-gateway\src\main\java\br\com\erudio\filter\LoggingFilter.java
+C:\Projects\microservices\erudio-udemy-example\api-gateway\src\main\java\br\com\erudio\Startup.java
