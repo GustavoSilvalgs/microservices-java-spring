@@ -40,5 +40,5 @@ jobs:
       run: mvn clean package
 
     - name: Docker Compose Build
-      working-directory: ./erudio-udemy-example
+      working-directory: C:/Projects/microservices/erudio-udemy-example
       run: docker compose build
