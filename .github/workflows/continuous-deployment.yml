@@ -23,5 +23,5 @@ jobs:
         java-version: '21'
         distribution: 'adopt'
     - name: Build Eureka Naming Server Docker Image
-      working-directory: ./erudio-udemy-example/naming-server
+      working-directory: ./naming-server
       run: mvn spring-boot:build-image -DskipTests
